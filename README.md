@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mikel Fernandes</h1>
 <h3 align="center">A passionate aspiring Software Engineer | Passionate about Finance and Tech from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikelbuilds&label=Profile%20views&color=0e75b6&style=flat" alt="mikelbuilds" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mikelbuilds&label=Profile%20views&color=0e75b6&style=flat" alt="mikelbuilds" /> </p>
 
 - 🌱 I’m currently learning **Java ,DSA**
 
