@@ -9,7 +9,7 @@
 - **C++** and **DSA**
 
 ### 📫 How to Reach Me
-- **Email:** typescrip676@gmail.com
+- **Email:** mikelfernandes676@gmail.com
 
 ---
 
