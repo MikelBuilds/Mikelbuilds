@@ -1,24 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mikel Fernandes</h1>
-<h3 align="center">Aspiring Software Engineer |  Web Developer | Skilled in C++, Java, React.js, and Node.js </h3>
+<h3 align="center">Aspiring Software Engineer | Web Developer | Skilled in C++, Java, React.js, and Node.js</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mikelbuilds&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
+<h1 align="center">
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains%20Mono&weight=600&size=30&duration=3000&pause=1500&color=FFFFFF&width=535&lines=DEVELOPER+%7C+ENTHUSIAST+%7C+SOLVER" />
+</h1>
 
 ### 🌱 Currently Learning
 - **C++** and **DSA**
 
 ### 📫 How to Reach Me
-- **Email:** mikelfernandes676@gmail.com
+- **Email:** typescrip676@gmail.com
 
 ---
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <!-- Add links to your social profiles -->
-  <a href="https://www.linkedin.com/in/mikelfernandes1/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/typescrip1/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
@@ -52,6 +49,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a>
 </p>
-
----
-
