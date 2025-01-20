@@ -4,7 +4,7 @@
 <h1 align="center">
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains%20Mono&weight=600&size=30&duration=3000&pause=1500&color=FFFFFF&width=535&lines=DEVELOPER+%7C+ENTHUSIAST+%7C+SOLVER" />
 </h1>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mikelbuilds&label=Profile%20views&color=0e75b6&style=flat" alt="mikelbuilds" /> </p>
 ### 🌱 Currently Learning
 - **C++** and **DSA**
 
