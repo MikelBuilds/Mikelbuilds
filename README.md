@@ -45,46 +45,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikelbuilds&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikelbuilds&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 🔝 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikelbuilds&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🌟 Featured Projects
-
-<!-- Replace these with your actual projects -->
-<p align="center">
-  <a href="https://github.com/mikelbuilds/project-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikelbuilds&repo=project-name&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/mikelbuilds/project-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikelbuilds&repo=project-name-2&theme=radical" alt="Project 2" />
-  </a>
-</p>
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/typescrip1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://dev.to/your-dev-to-handle" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" alt="Dev.to"/>
-  </a>
-</p>
-
----
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
