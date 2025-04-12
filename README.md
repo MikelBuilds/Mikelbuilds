@@ -9,38 +9,51 @@
   <img src="https://komarev.com/ghpvc/?username=mikelbuilds&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
+
 ## 💫 About Me
 
-- 🔭 I'm currently working on **strengthening my DSA skills and building web applications**
-- 🌱 I'm learning **Advanced C++ and Data Structures & Algorithms**
-- 👨‍💻 I enjoy creating **responsive, user-friendly web applications**
-- 🚀 I'm passionate about **solving complex problems with elegant solutions**
-- 📫 Reach me at: **mikelfernandes676@gmail.com**
+- 🔭 Currently working on: **Improving DSA skills & building cool full-stack apps**
+- 🌱 Learning: **Advanced C++, Java, and clean backend development**
+- 🧠 I enjoy: **Solving real-world problems with logical & creative code**
+- 🎯 Goal: **To become a rock-solid full-stack dev and a great team player**
+- 📫 Email me: **mikelfernandes676@gmail.com**
+
+---
 
 ## 🛠️ Tech Stack
 
+### 👨‍💻 Languages
 <p align="center">
-  <b>Languages:</b><br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+### 🧰 Frameworks & Libraries
 <p align="center">
-  <b>Frameworks & Libraries:</b><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase%20-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
+### 🗄️ Databases
 <p align="center">
-  <b>Tools:</b><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+### 🧪 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -48,6 +61,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikelbuilds&theme=radical" alt="GitHub Streak" />
 </p>
 
+---
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
