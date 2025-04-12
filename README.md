@@ -16,7 +16,7 @@
 - 🔭 Currently working on: **Improving DSA skills & building cool full-stack apps**
 - 🌱 Learning: **Advanced C++, Java, and clean backend development**
 - 🧠 I enjoy: **Solving real-world problems with logical & creative code**
-- 🎯 Goal: **To become a rock-solid full-stack dev and a great team player**
+- 🎯 Goal: **To become a rock-solid full-stack dev **
 - 📫 Email me: **mikelfernandes676@gmail.com**
 
 ---
