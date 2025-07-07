@@ -17,28 +17,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
 </p>
 
-## 💫 About Me
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header" />
-</p>
-
-- 🔭 Currently working on: **Improving DSA skills & building cool full-stack apps**
-- 🌱 Learning: **Advanced C++, Java, and clean backend development**
-- 🧠 I enjoy: **Solving real-world problems with logical & creative code**
-- 🎯 Goal: **To become a rock-solid full-stack dev**
-- 📫 Email me: **mikelfernandes676@gmail.com**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
-</p>
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header" />
-</p>
-
 ### 👨‍💻 Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
