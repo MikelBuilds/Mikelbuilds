@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=200&section=header&text=Mikel%20Fernandes&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=18&descAlignY=55" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/mikelbuilds">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=833AB4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%9A%80+Building+the+Future%2C+One+Line+at+a+Time;%F0%9F%92%A1+Turning+Ideas+into+Reality;%F0%9F%8C%9F+Passionate+about+Clean+Code+%26+Innovation" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mikelbuilds&label=Profile%20Views&color=833ab4&style=flat-square" alt="Profile Views" />
