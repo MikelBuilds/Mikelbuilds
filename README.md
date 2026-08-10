@@ -8,7 +8,63 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mikelbuilds&label=Profile%20Views&color=833ab4&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/🎯_Open_to-SDE_Opportunities-fd1d1d?style=flat-square" alt="Open to Work" />
 </p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+##  About Me
+
+-  Final-year **Computer Engineering** student, Don Bosco Institute of Technology, Mumbai
+-  Backend-leaning full-stack developer — Node.js/Express, FastAPI, Redis, PostgreSQL, React, Flutter
+-  Building a smart campus energy anomaly-detection system for my Major Project
+-  Actively LOOKING for SWE roles 
+-  Learning chess 
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+##  Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### API Rate Limiter
+Production-grade rate limiter implementing **Token Bucket**, **Sliding Window**, and **Fixed Window** algorithms, backed by Redis Lua scripts for atomic operations and load-tested with k6.
+
+`Node.js` `Redis` `Lua` `k6`
+
+**[🔗 View Repo](https://github.com/MikelBuilds/api-rate-limiter)**
+
+</td>
+<td width="33%" valign="top">
+
+###  PharmaWise
+Full-stack AI healthcare platform pairing a **Random Forest** disease-prediction model with automated PDF lab-report extraction and a patient–doctor dashboard. Co-authored an IEEE conference paper on the system.
+
+`Python` `React` `ML` `OCR`
+
+**[🔗 View Repo](https://github.com/MikelBuilds/PharmaWise)** 
+
+</td>
+<td width="33%" valign="top">
+
+###  Structify
+Document-intelligence app that turns unstructured PDFs into structured data using **Gemini 2.5 Flash**, Tesseract OCR, and pdfplumber, on a FastAPI + React + PostgreSQL stack.
+
+`FastAPI` `React` `PostgreSQL` `Gemini AI`
+
+**[🔗 View Repo](https://github.com/MikelBuilds/Structify)**
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>More on <a href="https://github.com/mikelbuilds?tab=repositories">pinned repos →</a></sub></p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -20,7 +76,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 🎨 Frontend
+###  Frontend
 <br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,js,ts&perline=4" />
 <br><br>
@@ -34,7 +90,7 @@
 </td>
 <td align="center" width="50%">
 
-### ⚙️ Backend
+###  Backend
 <br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp&perline=5" />
 <br><br>
@@ -50,7 +106,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 🗄️ Database & Cloud
+###  Database & Cloud
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,prisma,cloudflare&perline=5" />
 <br><br>
@@ -64,7 +120,7 @@
 </td>
 <td align="center" width="50%">
 
-### 🛠️ Tools & DevOps
+###  Tools & DevOps
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,postman&perline=5" />
 <br><br>
@@ -81,9 +137,6 @@
 
 <br>
 
-
-<summary><b>🔐 Authentication & APIs</b></summary>
-<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
@@ -92,60 +145,29 @@
   <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps" />
 </p>
 
-
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
+
+##  Let's Connect
+
+<!-- Swap the placeholder URLs below for your real ones -->
 
 <p align="center">
-  <a href="https://github.com/mikelbuilds">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mikelbuilds&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=833ab4&icon_color=fd1d1d&text_color=ffffff&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/mikelbuilds">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mikelbuilds&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=833ab4&text_color=ffffff&langs_count=8" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mikelbuilds">
-    <img src="https://streak-stats.demolab.com/?user=mikelbuilds&theme=radical&hide_border=true&background=0D1117&stroke=833ab4&ring=fd1d1d&fire=fcb045&currStreakLabel=ffffff" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mikelbuilds">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikelbuilds&bg_color=0D1117&color=833ab4&line=fd1d1d&point=fcb045&area=true&hide_border=true" width="95%" />
-  </a>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<!-- ## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <!-- <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  </a> -->
+  <!-- <a href="YOUR_TWITTER_URL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  </a> -->
+  <a href="mailto:mikelfernandes404@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://YOUR_PORTFOLIO.com" target="_blank">
+  <!-- <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p> -->
-
-<!-- <br>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  </a> -->
 </p>
-
-<br> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=120&section=footer" width="100%" />
